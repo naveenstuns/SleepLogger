@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">sleep logger</string>
+    <string-array name="Sleepq">
+        <item>Good</item>
+        <item>Moderate</item>
+        <item>Bad</item>
+    </string-array>
+    <string-array name="charttype">
+        <item>Sleep-Wake log</item>
+        <item>WakeUp-Sleeptime pattern</item>
+        <item>Sleep Parameters</item>
+        <item>Sleep Quality</item>
+    </string-array>
+    <string-array name="timerange">
+        <item>Last 5 days</item>
+        <item>Everything</item>
+    </string-array>
+    <string name="radial_time_picker_result_value">%1$d:%2$d</string>
+    <string name="title_activity_nap">Nap</string>
+</resources>
