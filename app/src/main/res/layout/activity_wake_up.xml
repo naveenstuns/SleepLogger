@@ -43,8 +43,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Awakenings"
-                android:textSize="25sp"
                 android:textColor="#0000FF"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
             <android.support.design.widget.TextInputLayout
@@ -155,8 +155,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15dp"
+                android:text="Sleep Quality"
                 android:textColor="#0000FF"
-                android:text="Sleep Quotient"
                 android:textSize="25sp"
                 android:textStyle="bold" />
 
